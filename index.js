@@ -1,6 +1,6 @@
 // 用户名和密码
-const phone = '';
-const password = '';
+const phone = '13959513261';
+const password = 'j0061124';
 
 const rp = require('request-promise');
 const tough = require('tough-cookie');
